@@ -5,10 +5,13 @@ height: 654px;
     width: 232px;
     height: 225px;
 }
-.icon-size{
+.icon{
     width: 45px;
 }
-.divider-size{
+.divider{
     width: 60px;
     height: 2px;
+}
+.text{
+    color: #A80E0E ;
 }
